@@ -1,2 +1,2 @@
 # Cart_Pole
-Training Carp Pole model from Gym with tensorflow 
+Training Carp Pole model from Gym with Tensorflow 
