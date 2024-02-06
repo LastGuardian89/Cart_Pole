@@ -1,8 +1,3 @@
-# !pip install gym
-# !pip install pyglet
-# !pip install xvfbwrapper
-# !pip install pyvirtualdisplay
-
 # %%bash
 # # Install additional packages for visualization
 # sudo apt-get install -y xvfb python-opengl > /dev/null 2>&1
